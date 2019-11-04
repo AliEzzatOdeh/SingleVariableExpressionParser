@@ -1,4 +1,4 @@
-# SingleVariableExpressionParser
+# SingleVariableExpressionParser [![Build Status](https://travis-ci.com/AliEzzatOdeh/SingleVariableExpressionParser.svg?branch=master)](https://travis-ci.com/AliEzzatOdeh/SingleVariableExpressionParser)
 
 Python package for parsing single variable mathmatical expressions.
 
