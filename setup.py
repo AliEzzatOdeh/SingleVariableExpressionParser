@@ -14,9 +14,11 @@ setuptools.setup(
     url="https://github.com/AliEzzatOdeh/SingleVariableExpressionParser",
     packages=setuptools.find_packages(),
     classifiers=[
-        "Programming Language :: Python :: 3",
+        "Programming Language :: Python :: 3.6",
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
+        'Intended Audience :: Developers',
+        'Development Status :: 3 - Alpha',
     ],
     python_requires='>=3.6',
 )
