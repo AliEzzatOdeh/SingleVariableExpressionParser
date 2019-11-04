@@ -4,14 +4,14 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="math-expression-parser-ALIEZZAT", # Replace with your own username
+    name="single-variable-expression-parser-ALIEZZAT",
     version="0.0.1",
     author="ALIEZZAT ODEH",
     author_email="aliezzat1993@outlook.com",
     description="A package for parsing mathmatical expressions",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/AliEzzatOdeh/SingleVariableExpressionParser",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
