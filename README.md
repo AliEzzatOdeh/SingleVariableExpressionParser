@@ -22,12 +22,19 @@ Table of supported math operations:
 | square root    |     sqr       |       1         |
 | minus          |     -         |       1         |
 
+
+## Install
+
+To install the package using `pip`:
+
+`pip install single-variable-expression-parser-ALIEZZAT`
+
 ## Usage
 
 Import the module as the following:
 
 ```
-import { single_variable_parser } from SingleVariableParser
+from math_expression_parser.single_variable_parser import SingleVariableParser
 ```
 Then it should be used as:
 
